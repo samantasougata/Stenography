@@ -1,5 +1,7 @@
 ## Stenography
 #Project Title: Secure Data Hiding in Image Using Steganography
+
+
 Problem:
 In today’s digital world, data security is a major concern.
 Traditional encryption methods can raise suspicion.
